@@ -1,0 +1,519 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8ba51cda80e4680e9297e39f7af4218e\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\aea67c7203a4138d3826018a012af2ed\firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494da85fc87fd36281f183005f09cc74\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5e6118552c10413b5963b898e58d970a\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\838d4aa6ff284da473d3035ec05a0c0f\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\ed52cf3026eb0a0a380e1fe7c7a33dc2\firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1499663d1783a3d7f7017d3eb9659d3b\play-services-measurement-sdk-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\057e4a81df00c448ac08d17f9da47981\firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d3819a93c72e4830139675133a7bd5e2\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5f215bee93bddbda0e488e01bef6da6d\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d47ae88e8b244f687c79565078b31691\play-services-measurement-base-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1507faa5965ba3922eaa933e15704e90\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a23c5e4d339163528c370c1e46fd3ffc\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9bbc60eab0bdd8a314a092f5fdb0de9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\01f731281bcd32057c2c1a5ab38cde6c\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\40de40e4de5c7f63923718219198a561\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\b455fa15de092516e2891c7068d341f3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d6d49b6264a8abe4ff4da54d5409902d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e091a8e2803fc668c74e054e312adf4e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e17302e68a857462533d34f229d50a92\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\488767d0be418012c843f8a682b611a4\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\ee6341a56163398365b5207772e7eecf\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d190ffb78857a69489387d11b2e3eb62\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5713cc9fa4cdefc325182ad3363af4cc\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\2d4182e7351638ac53b89326065a2db9\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\66741ee94f7e42497a55e520bf9bfbf1\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\74f3c8207576d1d35f2ee4b16c6b5449\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f6724098d57fb5fd3bfa668ace5c221\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a26f8677b2b972495d70a4a1a12642c2\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d354e401b2a8108d781978b736db67c5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\bfd81b74751d6fa7e41b04cc6dc76502\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77cfad81733ccee842a081c3b41e39a6\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7fa5362c03d89ed90e91a850b90befd5\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1fd1fbf5cff65770b69ea4b408e62b10\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7c93c197113d4deb426d89b1214736fb\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\9631296d041ecd79d23ce35b024be4d5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a117ef16052237bb94ccf5d0c151bfc4\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\63858a1901e93acde0e967ce34f8120a\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\202c5514dc8bfb7ff910479858e8fbf7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494eab41e5b0bb52250aac98e41c1bcd\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e9c9cc0fb307bdd0f634fa71d724f055\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7b5061f48486e796caea171c7d14e047\grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\aea67c7203a4138d3826018a012af2ed\firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\aea67c7203a4138d3826018a012af2ed\firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494da85fc87fd36281f183005f09cc74\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494da85fc87fd36281f183005f09cc74\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\838d4aa6ff284da473d3035ec05a0c0f\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\838d4aa6ff284da473d3035ec05a0c0f\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1499663d1783a3d7f7017d3eb9659d3b\play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1499663d1783a3d7f7017d3eb9659d3b\play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d3819a93c72e4830139675133a7bd5e2\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d3819a93c72e4830139675133a7bd5e2\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5f215bee93bddbda0e488e01bef6da6d\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5f215bee93bddbda0e488e01bef6da6d\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d47ae88e8b244f687c79565078b31691\play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d47ae88e8b244f687c79565078b31691\play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1507faa5965ba3922eaa933e15704e90\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1507faa5965ba3922eaa933e15704e90\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a23c5e4d339163528c370c1e46fd3ffc\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a23c5e4d339163528c370c1e46fd3ffc\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\74f3c8207576d1d35f2ee4b16c6b5449\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\74f3c8207576d1d35f2ee4b16c6b5449\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7c93c197113d4deb426d89b1214736fb\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7c93c197113d4deb426d89b1214736fb\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\74f3c8207576d1d35f2ee4b16c6b5449\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#co.appbrewery.flash_chat.MainActivity
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8ba51cda80e4680e9297e39f7af4218e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8ba51cda80e4680e9297e39f7af4218e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\aea67c7203a4138d3826018a012af2ed\firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\aea67c7203a4138d3826018a012af2ed\firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494da85fc87fd36281f183005f09cc74\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494da85fc87fd36281f183005f09cc74\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5e6118552c10413b5963b898e58d970a\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5e6118552c10413b5963b898e58d970a\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\838d4aa6ff284da473d3035ec05a0c0f\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\838d4aa6ff284da473d3035ec05a0c0f\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\ed52cf3026eb0a0a380e1fe7c7a33dc2\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\ed52cf3026eb0a0a380e1fe7c7a33dc2\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1499663d1783a3d7f7017d3eb9659d3b\play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1499663d1783a3d7f7017d3eb9659d3b\play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\057e4a81df00c448ac08d17f9da47981\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\057e4a81df00c448ac08d17f9da47981\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d3819a93c72e4830139675133a7bd5e2\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d3819a93c72e4830139675133a7bd5e2\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5f215bee93bddbda0e488e01bef6da6d\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5f215bee93bddbda0e488e01bef6da6d\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d47ae88e8b244f687c79565078b31691\play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d47ae88e8b244f687c79565078b31691\play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1507faa5965ba3922eaa933e15704e90\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1507faa5965ba3922eaa933e15704e90\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a23c5e4d339163528c370c1e46fd3ffc\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a23c5e4d339163528c370c1e46fd3ffc\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9bbc60eab0bdd8a314a092f5fdb0de9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9bbc60eab0bdd8a314a092f5fdb0de9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\01f731281bcd32057c2c1a5ab38cde6c\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\01f731281bcd32057c2c1a5ab38cde6c\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\40de40e4de5c7f63923718219198a561\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\40de40e4de5c7f63923718219198a561\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\b455fa15de092516e2891c7068d341f3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\b455fa15de092516e2891c7068d341f3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d6d49b6264a8abe4ff4da54d5409902d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d6d49b6264a8abe4ff4da54d5409902d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e091a8e2803fc668c74e054e312adf4e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e091a8e2803fc668c74e054e312adf4e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e17302e68a857462533d34f229d50a92\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e17302e68a857462533d34f229d50a92\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\488767d0be418012c843f8a682b611a4\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\488767d0be418012c843f8a682b611a4\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\ee6341a56163398365b5207772e7eecf\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\ee6341a56163398365b5207772e7eecf\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d190ffb78857a69489387d11b2e3eb62\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d190ffb78857a69489387d11b2e3eb62\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5713cc9fa4cdefc325182ad3363af4cc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\5713cc9fa4cdefc325182ad3363af4cc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\2d4182e7351638ac53b89326065a2db9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\2d4182e7351638ac53b89326065a2db9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\66741ee94f7e42497a55e520bf9bfbf1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\66741ee94f7e42497a55e520bf9bfbf1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\74f3c8207576d1d35f2ee4b16c6b5449\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\74f3c8207576d1d35f2ee4b16c6b5449\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f6724098d57fb5fd3bfa668ace5c221\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f6724098d57fb5fd3bfa668ace5c221\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a26f8677b2b972495d70a4a1a12642c2\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a26f8677b2b972495d70a4a1a12642c2\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d354e401b2a8108d781978b736db67c5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\d354e401b2a8108d781978b736db67c5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\bfd81b74751d6fa7e41b04cc6dc76502\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\bfd81b74751d6fa7e41b04cc6dc76502\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77cfad81733ccee842a081c3b41e39a6\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77cfad81733ccee842a081c3b41e39a6\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7fa5362c03d89ed90e91a850b90befd5\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7fa5362c03d89ed90e91a850b90befd5\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1fd1fbf5cff65770b69ea4b408e62b10\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1fd1fbf5cff65770b69ea4b408e62b10\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7c93c197113d4deb426d89b1214736fb\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7c93c197113d4deb426d89b1214736fb\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\9631296d041ecd79d23ce35b024be4d5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\9631296d041ecd79d23ce35b024be4d5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a117ef16052237bb94ccf5d0c151bfc4\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a117ef16052237bb94ccf5d0c151bfc4\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\63858a1901e93acde0e967ce34f8120a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\63858a1901e93acde0e967ce34f8120a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\202c5514dc8bfb7ff910479858e8fbf7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\202c5514dc8bfb7ff910479858e8fbf7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494eab41e5b0bb52250aac98e41c1bcd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\494eab41e5b0bb52250aac98e41c1bcd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e9c9cc0fb307bdd0f634fa71d724f055\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\e9c9cc0fb307bdd0f634fa71d724f055\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7b5061f48486e796caea171c7d14e047\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7b5061f48486e796caea171c7d14e047\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\heman\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\heman\StudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\heman\StudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7b5061f48486e796caea171c7d14e047\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\7b5061f48486e796caea171c7d14e047\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\8f2a28830069d45774f12d3e0edf7183\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\acc92dfd3c8917de82ab5ff8aba6387e\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\1b763347369dd643f80ce481b29c4231\play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\45b56ef2405e032dca7750069d5e5a0e\play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\77833ddac8c56846b9ebdfeba795bc61\firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\180ab9d55f2ace748b63526a56aeecfd\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\0e82eebcb314ed5d0f555127d7ed4256\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\cd8ad4b4b2957744f6e2a2618c1e5bca\play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\a9c5a47cbcd1b55d21293707714d2789\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\heman\.gradle\caches\transforms-2\files-2.1\28a918b9ee266b809a7cc6fbf81812a1\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58

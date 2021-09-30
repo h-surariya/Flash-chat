@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150122793239",
+    "project_id": "flash-chat-f1999",
+    "storage_bucket": "flash-chat-f1999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150122793239:android:2f446c730a1b8390424f52",
+        "android_client_info": {
+          "package_name": "co.hemant_temp.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150122793239-qdj3cijr5v5jgg5juglo651rl8uu2pds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7pUf0WhGH0trw4Fv1RXdqRFbOIzFYh4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150122793239-qdj3cijr5v5jgg5juglo651rl8uu2pds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
